@@ -26,6 +26,21 @@ Fonts are separated by a | */
   --nav-hover-background-color: #004AAD;
 }
 
+.background-img{
+  width: 50%;
+  height: 50%;
+}
+
+.burger-img{
+  width: 45%;
+  height: 45%;
+}
+
+.rafting-img{
+  margin-top: 15px;
+  width: 45%;
+  height: 45%;  
+}
 
 /*  Look around below...but DON'T CHANGE ANYTHING! */
 
