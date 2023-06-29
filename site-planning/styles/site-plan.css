@@ -172,6 +172,11 @@ nav a:hover {
   line-height: 3em;
 }
 
+.home_img .project_img .contact_img{
+  width: 10%;
+  height: 10%;
+}
+
 .top {
   grid-area: top;
   border-left: 1px solid;
